@@ -1,3 +1,5 @@
+Social Media Analysis on Olympics
+
 1. Sentiment Analysis
 
 The Vader sentiment analysis approach has been used for this dataset since this tool is specifically built based on the sentiments mostly found on social media. This approach is also capable of handling social media text with emoticons, emojis and slangs often used in social media platforms. For each document within the corpus, it computes the positive, negative and neutral scores which indicate the proportion of the document that falls into each category. As a result, all these scores should sum up to 1. Furthermore, this approach also uses the compound score metric which computes the normalised score of the overall lexicon ratings between -1 and 1 indicating whether a document holds a positive or negative sentiment.
